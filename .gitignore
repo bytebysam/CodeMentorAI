@@ -1,0 +1,14 @@
+gemini api key.txt
+important run commands.txt
+.env
+.env.*
+!.env.example
+
+node_modules/
+dist/
+target/
+
+*.log
+
+.vscode/
+.idea/
