@@ -432,7 +432,7 @@ Gemini is used as an interactive learning engine to:
 
 ## 20. Team
 
-**Nestediff**
+**Nightbuild**
 
 CodeMentor AI is a collaborative hackathon project combining frontend
 development, backend/API development, database integration, and
