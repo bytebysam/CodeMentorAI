@@ -1,6 +1,6 @@
 # CodeMentor AI -- Personalized Coding Learning Assistant
 
-**Team:** Nestediff\
+**Team:** Nightbuild\
 **Primary Language:** Java
 
 ## 1. Project Overview
